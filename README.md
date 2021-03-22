@@ -10,7 +10,7 @@
 
 [AnyDL Bot](https://github.com/SpEcHiDe/AnyDLBot)
 
-[Uvindu Bro](https://t.me/UvinduBro)
+[Infinity BOTs](https://t.me/Infinity_BOTs)
 
 [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 
