@@ -1,0 +1,11 @@
+class Translation(object):
+    RENAME_403_ERR = "<b>❌ Sorry. You are not permitted to rename this file.</b>"
+    ABS_TEXT = "<b>Please don't be selfish 😒</b>"
+    DOWNLOAD_START = "<b>Downloading Started 😉</b>"
+    UPLOAD_START = "<b>Download successful 😌 \nNow uploading. Please wait 🥺</b>"
+    RCHD_BOT_API_LIMIT = "<b>Size greater than maximum allowed size (50MB). 🙄 Neverthless, trying to upload.</b>"
+    RCHD_TG_API_LIMIT = "<b>Downloaded in {} seconds.\nDetected File Size: {}\nWTF 😬, I cannot upload files greater than 1.5GB due to Telegram API limitations 😒</b>"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "<b>If you find this bot useful, please share with your friends and family. If any complaints contact @UvinduBr</b>"
+    SAVED_RECVD_DOC_FILE = "<b>Document Downloaded Successfully 😙</b>"
+    CUSTOM_CAPTION_UL_FILE = "Uploaded by @FileRenamerubBot"
+    REPLY_TO_DOC_FOR_RENAME_FILE = "<b>Reply to a Telegram media with new file name</b>"
