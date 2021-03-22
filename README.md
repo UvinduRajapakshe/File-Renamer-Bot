@@ -16,4 +16,4 @@
 
 ### Developers:
 
-[@ImJanindu](https://t.me/Uvindu_Bro)
+[@Uvindu Bro](https://t.me/Uvindu_Bro)
