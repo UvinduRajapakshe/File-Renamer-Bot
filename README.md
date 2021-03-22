@@ -1,6 +1,6 @@
 # File Renamer Bot
 
-## This bot can rename any telegram file quickly! Can be found in telegram as [@FileRenamerIBot](https://t.me/FileRenameUB_Bot)
+## This bot can rename any telegram file quickly! Can be found in telegram as [@FileRenamerUBBot](https://t.me/FileRenameUB_Bot)
 
 ### Deploy to Heroku 🏃‍♂
 
