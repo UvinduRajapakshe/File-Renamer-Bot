@@ -4,16 +4,16 @@
 
 ### Deploy to Heroku 🏃‍♂
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImJanindu/File-Renamer-Bot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/UvinduBro/File-Renamer-Bot)
 
 ### Credits:
 
 [AnyDL Bot](https://github.com/SpEcHiDe/AnyDLBot)
 
-[Infinity BOTs](https://t.me/Infinity_BOTs)
+[Uvindu Bro](https://t.me/UvinduBro)
 
 [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 
 ### Developers:
 
-[@ImJanindu](https://t.me/ImJanindu)
+[@ImJanindu](https://t.me/Uvindu_Bro)
