@@ -109,6 +109,8 @@ async def about(client, message):
 
 <b>♞ Support:</b> <a href="https://t.me/UvinduBro">Uvindu Bro BOTs Support</a>
 
+<b>♞ Thanks For:</b> <a href="https://github.com/ImJanindu">ImJanidu</a><a href="https://t.me/Infinity_BOTs">Infinity BOTs</a>
+
 <b>♞ Library:</b> <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
 
 <b>~ @UvinduBro_BOTs</b>""",
