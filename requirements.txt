@@ -1,0 +1,15 @@
+aiohttp
+beautifulsoup4
+git+git://github.com/google/chatbase-python.git
+hachoir
+numpy
+Pillow
+pyrogram
+requests
+tgcrypto
+pydrive
+pySmartDL
+hachoir
+psycopg2-binary
+ffmpeg
+sqlalchemy
