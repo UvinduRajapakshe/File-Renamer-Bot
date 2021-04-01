@@ -8,9 +8,9 @@
         "Telegram Bot",
         "JE Bots"
     ],
-    "website": "https://infinityje.com",
-    "repository": "https://github.com/ImJanindu/File-Renamer-Bot",
-    "success_url": "https://t.me/Infinity_BOTs",
+    "website": "https://uvindubro.tk/",
+    "repository": "https://github.com/UvinduBro/File-Renamer-Bot",
+    "success_url": "https://t.me/UvinduBro_BOTs",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
